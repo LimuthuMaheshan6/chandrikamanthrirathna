@@ -45,7 +45,7 @@
 				</div>
 				<div class="about-image">
 					<div class="image-placeholder">
-						<img src="src/public/nanda.webp" width="100%"   alt="nurse-pic">
+						<img src="nanda.webp" width="100%"   alt="nurse-pic">
 					</div>
 				</div>
 			</div>

@@ -25,7 +25,7 @@
 <nav class="navbar" class:scrolled={isScrolled}>
 	<div class="nav-container">
 		<a href="/" class="logo" aria-label="Home">
-			<img src="src/public/medi_banner.png" width="60" />
+			<img src="medi_banner.png" width="60" />
 			<span class="logo-text">Chandrika </span>
 		</a>
 
