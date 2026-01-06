@@ -5,8 +5,8 @@
 	}
 
 	const clinicalSkills: ClinicalSkill[] = [
-		{name: 'Diabetic Treatment', level: 100},
 		{ name: 'Patient Assessment', level: 95 },
+		{name: 'Diabetic Education', level: 100},
 		{ name: 'Medication Administration', level: 98 },
 		{ name: 'Wound Care', level: 92 },
 		{ name: 'IV Therapy', level: 90 },
